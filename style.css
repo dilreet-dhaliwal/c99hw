@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(148, 193, 233);
+}
+.h1
+{
+	color: rgb(255, 255, 255);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#camera{
+    width: 500px;
+    height:400px;
+    border: 1px coral;
+}
+img{
+    width: 500px;
+    height:400px;
+    border: 1px rgb(130, 255, 80);
+} 
+img:hover{
+    border-radius: 140px;
+}
